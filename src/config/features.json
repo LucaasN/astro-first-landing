@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Encrypted",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, magnam!"
+    },
+    {
+        "title": "Open Source",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, magnam!"
+    },
+    {
+        "title": "Free",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, magnam!"
+    },
+    {
+        "title": "Fast",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, magnam!"
+    },
+    {
+        "title": "Secure",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, magnam!"
+    },
+    {
+        "title": "Cross Platform",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam, magnam!"
+    }
+]
